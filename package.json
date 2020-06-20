@@ -5,6 +5,9 @@
   "repository": "https://github.com/no6v/v-calendar-issues-502.git",
   "author": "Nobuhiro IMAI <nov@yo.rim.or.jp>",
   "license": "MIT",
+  "scripts": {
+    "build": "webpack-cli index.js"
+  },
   "dependencies": {
     "v-calendar": "^1.0.8",
     "vue": "^2.6.11"
