@@ -1,0 +1,8 @@
+{
+  "name": "v-calendar-issues-502",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/no6v/v-calendar-issues-502.git",
+  "author": "Nobuhiro IMAI <nov@yo.rim.or.jp>",
+  "license": "MIT"
+}
